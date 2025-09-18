@@ -21,3 +21,35 @@ undefined
 {"level":"info","message":"::ffff:127.0.0.1 - - [17/Sep/2025:01:15:49 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 114 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
 {"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [17/Sep/2025:01:18:34 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:14 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:41 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:41 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:41 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:42 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:42 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:42 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:42 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:42 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:42 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:42 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:42 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:43 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:43 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:43 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:43 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:44 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"insomnia/11.6.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:21:44 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Sep/2025:01:33:08 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"insomnia/11.6.0\"","service":"acquisitions-api"}
