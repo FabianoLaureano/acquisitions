@@ -12,8 +12,8 @@ The development environment uses Docker Compose to run the application and a loc
 
 **Prerequisites:**
 
-*   Docker
-*   Docker Compose
+- Docker
+- Docker Compose
 
 **Instructions:**
 
@@ -37,8 +37,8 @@ The production environment uses Docker Compose to run the application. The datab
 
 **Prerequisites:**
 
-*   Docker
-*   Docker Compose
+- Docker
+- Docker Compose
 
 **Instructions:**
 
