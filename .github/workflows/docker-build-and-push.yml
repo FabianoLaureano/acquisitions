@@ -30,8 +30,8 @@ jobs:
         with:
           images: ${{ secrets.DOCKER_USERNAME }}/acquisitions
           tags: |
-            type=branch,event=branch
-            type=sha,prefix=,suffix=,event=branch
+            type=ref,event=branch
+            type=sha
             type=raw,value=latest,enable={{is_default_branch}}
             type=raw,value=prod-{{date 'YYYYMMDD-HHmmss'}},enable=true
 
